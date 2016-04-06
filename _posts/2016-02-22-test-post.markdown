@@ -1,13 +1,13 @@
 ---
-title:  "Cross browser CSS clip-path"
+title:  "Something something"
 date:   2016-01-08 15:04:23
 categories: [frontend]
 tags: [svg, css, browser]
 ---
-A test post about the current state of css clip path.
+A test post about ...
 
 ``` css
-clip-path: /* things */;
+styles: /* things */;
 ```
 
 More content to follow...
