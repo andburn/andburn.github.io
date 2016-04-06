@@ -67,6 +67,16 @@
               </li>
             {% endif %}
 
+            {% if site.author.keybase_user %}
+              <!-- keybase -->
+              <li class="navigation__item">
+                <a href="https://keybase.io/{{ site.author.keybase_user }}" title="{{ site.author.keybase_user }} on Keybase" target="_blank">
+                  <i class="icon icon-key"></i>
+                  <span class="label">Keybase</span>
+                </a>
+              </li>
+            {% endif %}
+
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
