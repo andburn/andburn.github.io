@@ -4,9 +4,9 @@ https://keybase.io/andburn
 
 I hereby claim:
 
-  * I am an admin of https://andburn.info
+  * I am an admin of http://andburn.info
   * I am andburn (https://keybase.io/andburn) on keybase.
-  * I have a public key ASDotTcZKfsjdUC9rQpiElCEeVSV_4ENWtHoGnzAq8_5ywo
+  * I have a public key with fingerprint DC49 A3FB DB6D 1B42 F61A  D7F5 EB98 61AB 7FAA B8AB
 
 To do so, I am signing this object:
 
@@ -14,37 +14,51 @@ To do so, I am signing this object:
     "body": {
         "key": {
             "eldest_kid": "0101f78e4e8e8d902711e5bb9612f4b4c0e91a4c7ccc8848ef9a7ce2a32a903053770a",
+            "fingerprint": "dc49a3fbdb6d1b42f61ad7f5eb9861ab7faab8ab",
             "host": "keybase.io",
-            "kid": "0120e8b5371929fb237540bdad0a62125084795495ff810d5ad1e81a7cc0abcff9cb0a",
+            "key_id": "eb9861ab7faab8ab",
+            "kid": "0101f78e4e8e8d902711e5bb9612f4b4c0e91a4c7ccc8848ef9a7ce2a32a903053770a",
             "uid": "471a24b891d9f94ad53bb84f6dd5f419",
             "username": "andburn"
         },
         "service": {
             "hostname": "andburn.info",
-            "protocol": "https:"
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.15"
-    },
-    "ctime": 1459965417,
-    "expire_in": 504576000,
-    "merkle_root": {
-        "ctime": 1459965349,
-        "hash": "7c3310b24ef6b87659c796f0acf439a8d04dd4d408e99a676a17f36a9d5381409f76a37c66749c6dcf79b58dbee447453d467bdf0d2b6f8adef259c5ed274ef9",
-        "seqno": 432444
-    },
-    "prev": "d2f16dd4b0b91873842efd1810139fb78ac39a5953227945e31d4f3fa4c6a1b2",
-    "seqno": 10,
+    "ctime": 1475243979,
+    "expire_in": 157680000,
+    "prev": "0fdac8f46ae985a9e52ce0efdf357dddcfdcda6b578588dcaf9ffc67b521d870",
+    "seqno": 12,
     "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6LU3GSn7I3VAva0KYhJQhHlUlf+BDVrR6Bp8wKvP+csKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjc4ZTRlOGU4ZDkwMjcxMWU1YmI5NjEyZjRiNGMwZTkxYTRjN2NjYzg4NDhlZjlhN2NlMmEzMmE5MDMwNTM3NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZThiNTM3MTkyOWZiMjM3NTQwYmRhZDBhNjIxMjUwODQ3OTU0OTVmZjgxMGQ1YWQxZTgxYTdjYzBhYmNmZjljYjBhIiwidWlkIjoiNDcxYTI0Yjg5MWQ5Zjk0YWQ1M2JiODRmNmRkNWY0MTkiLCJ1c2VybmFtZSI6ImFuZGJ1cm4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFuZGJ1cm4uaW5mbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE1In0sImN0aW1lIjoxNDU5OTY1NDE3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTk5NjUzNDksImhhc2giOiI3YzMzMTBiMjRlZjZiODc2NTljNzk2ZjBhY2Y0MzlhOGQwNGRkNGQ0MDhlOTlhNjc2YTE3ZjM2YTlkNTM4MTQwOWY3NmEzN2M2Njc0OWM2ZGNmNzliNThkYmVlNDQ3NDUzZDQ2N2JkZjBkMmI2ZjhhZGVmMjU5YzVlZDI3NGVmOSIsInNlcW5vIjo0MzI0NDR9LCJwcmV2IjoiZDJmMTZkZDRiMGI5MTg3Mzg0MmVmZDE4MTAxMzlmYjc4YWMzOWE1OTUzMjI3OTQ1ZTMxZDRmM2ZhNGM2YTFiMiIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC2f/hrkwqv/9sRcfz+oGbrPqWS1GapwPT2LtYtABKVcU8T7Gd0zrgaipSvudTHpWXzA8urgtpMtI6l3nWCbiECqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJdSBVBGL03TUnShMCXsGIDFbPa3bu7M3OLBCOLeqiHfqiMy8zOjC7q
+7nX3XvWiEhL1EPZDZT1IPSRJhUjZj6j5UxkEooJZqCFhSWCERQRdUKtdqYegx+Zl
+Zr4558w5H99AaoIvxR/vnnr54fzQEf/gkytR3+E5a7BGIBaNCcEaoZQtbayMMicS
+KjWoEBRESZQ4gExhkEGKRBlIElMJQZokc4UousiQhBUd6LoOoQIZRxjoTMYBGSMx
+IKoBAEQs5AncMIuZHbYNM+LKUl1BOMAJJRqViCJzTcIUcJURBN0jARxjAjFxiSWW
+4zFccwQ7bLNhuTX3Elqy9w/8f/YdXZJTgIRlhUAkUcSRgqkaIAQqXKNU5YqEPKDD
+bBOXMxeNTUqitinU5QlusdLQmddXL8jfgM2Gyb04YduKWLpV5r6URCLhoEeMxMIe
+soqR0G+NEDFM6nbRJVQy2zEsUwhKLlKPGJ6opABVVgIIoDyBVYcNm4UMD6ECDYru
+8r5hlV5rOMU65IqGGYIqRkyVdSYyTnlABZRSnVOdYo2oAKoQUh1zxLmuAaLKEoVA
+FLxUFablasuuT1zsajpGsYkjUZsJdU/7ixJ9/hRf0vJl3nj5Ulak/xm69p7kn3xy
+In5xtv8dOHB7Q/OyC1H6dfjQmizn+50tvdo2/8btdaPlhZOxj/ldJ948aMlOv7wr
+e+h9Dt2VmdMylT17ZN2q+OqCb/O5qetHrc9JBXYwpySuDO1Fb3Mrdo8d/ZF3c7oV
+avViY/eLc87aqxkPXmUsVNV17Zm9V30t/XpibuvM9NDDW80pEzfOHm/LbJxLmjsA
++3xnto4sDPf1tA8UvX62vzE+N77p0aWoU9+RuW/PlwtZafMLyZ92LuxouFeb0Lx4
+1xxdWd9S0THTW3u/7/Slk0XPr3SO+xuOyQMkVqahmurOprL2xNiq3bC3v0l4PJ+/
+mFZ8c7J8rPzgHdbdNnKq8BdEHlCH
+=BnfV
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
