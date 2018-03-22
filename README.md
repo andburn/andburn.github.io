@@ -1,5 +1,5 @@
 # Personal Site
-[https://andburn.info](htts://andburn.info)
+[https://andburn.github.io](https://andburn.github.io)
 
 ## Jekyll Theme
 
